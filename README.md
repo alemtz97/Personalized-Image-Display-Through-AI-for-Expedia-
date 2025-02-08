@@ -18,8 +18,9 @@ This project leverages **machine learning** to dynamically personalize travel im
 4. Outputs optimized images for a **personalized user experience**.  
 
 📂 **Project Structure**  
-- `expedia_ai_model.ipynb` → AI model development  
-- `expedia_results.html` → Report with results  
+- `ExpediaAI.ipynb` → AI model development  
+- `Expedia_PPT` → Report with results
+-  `Demo_Video` → Demo video of ppt
 - `README.md` → Project overview  
 
 🔗 **How to Run the Project**  
